@@ -7,7 +7,7 @@ import List from './pages/lists/List'
 import { Routes, Route } from 'react-router-dom'
 import { ToastContainer} from 'react-toastify';
 
-const url = "http://localhost:4000";
+const url = "https://ecommerce-app-back-end.onrender.com";
 
 const App = () => {
   return (
