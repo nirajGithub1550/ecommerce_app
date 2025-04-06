@@ -62,7 +62,7 @@
         text-align: center;
     }
 }
-@media (max-width: 800px){
+@media (max-width: 400px){
     .footer-content-left p{
         padding: 0 3px;
     }
