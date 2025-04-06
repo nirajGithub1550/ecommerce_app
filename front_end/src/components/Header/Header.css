@@ -88,3 +88,10 @@
     margin-top: 4vh;
   }
 }
+@media (max-width: 420px) {
+    .header-contents {
+        max-width: 60%;
+        margin-bottom: 0px;
+      font-size: max(3.5vw, 10px);
+    }
+}
