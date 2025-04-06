@@ -62,3 +62,8 @@
         text-align: center;
     }
 }
+@media (max-width: 800px){
+    .footer-content-left p{
+        padding: 0 3px;
+    }
+}
